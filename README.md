@@ -1,5 +1,5 @@
 A simple Telegram userbot based on Telethon .
-[![LionX logo](https://graph.org/file/17287802003fcefcc78c0.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX%2Ftree%2Fmaster&template=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX)
+[![KillerX logo](https://graph.org/file/c6b5be54293904eb2b8e2.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX%2Ftree%2Fmaster&template=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeamLionX%2FLionX&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TeamLionX/LionX)
 [![CodeFactor](https://www.codefactor.io/repository/github/TeamLionX/LionX/badge?&style=flat-square)](https://www.codefactor.io/repository/github/TeamLionX/LionX)
@@ -16,10 +16,10 @@ A simple Telegram userbot based on Telethon .
 [![GitHub stars](https://img.shields.io/github/stars/TeamLionX/LionX?&style=flat-square&logo=github)](https://github.com/TeamLionX/LionX/stargazers)
 
 
-## How to deploy LionX
+## How to deploy KILLER X JUHI
 
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamLionX/Heroku)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/killerop12/Heroku)
 
 
 -----
@@ -42,7 +42,7 @@ A simple Telegram userbot based on Telethon .
 - `DATABASE_URL`  =  A Postgresql database url.
 
 ------
-## LionX Session
+## KILLER X SESSION
 
 
 ------
@@ -51,7 +51,7 @@ A simple Telegram userbot based on Telethon .
 - Every mandatory variables are listed [Here](#Variables).
 - Please note that YoutubeDL won't work on railway deploys.
 - You won't be able to update your bot. To update you'll have to deploy again. I'll find a method to update through railway soon.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [LionXSupport](https://t.me/LionXsupport). Type `#railway` to get deploy link.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [KillerXSupport](https://t.me/KILLER_FIGHTER_CLUB). Type `#railway` to get deploy link.
 
 
 ### Repl
@@ -63,7 +63,7 @@ A simple Telegram userbot based on Telethon .
 - If You have Enabled 2-Step Verification then fill your password.
 - Your Lion X Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more.So You Can Use String Bot Now
-- [![Replit](https://graph.org/file/862bab1d182a29c4361b0.jpg)](https://t.me/LionXStringbot)
+- [![Replit](https://graph.org/file/d41746e92e9118a934eda.jpg)](https://t.me/LionXStringbot)
 
 -----
 ## Disclaimer
@@ -79,18 +79,18 @@ A simple Telegram userbot based on Telethon .
 
 ## Page
 
-- [Click Here](https://teamlionx.github.io/LionX/)
+- [Click Here](https://killerop12.github.io/killerop12/)
   
 ## Support
 
-![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@LionXUpdates&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXUpdates&logo=telegram)
+![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@ABOUT_MR_KILLER_OP&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DABOUT_MR_KILLER_OP&logo=telegram)
 
-![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@LionXSupport&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DLionXSupport&logo=telegram)
+![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@KILLER_OP_12&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DKILLER_OP_12&logo=telegram)
 
-**Full Credit Goes to [LionXDevs](http://t.me/TeamLionX) And [CatUserbot](https://github.com/sandy1709/catuserbot)**
+**Full Credit Goes to [𝗝𝗨𝗛𝗜X𝗞𝗜𝗟𝗟𝗘𝗥](https://t.me/KILLER_FIGHTER_CLUB) And [CatUserbot](https://github.com/sandy1709/catuserbot)**
 
-   <a href="https://t.me/LionXupdates"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
-   <a href="https://t.me/LionXSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
+   <a href="https://t.me/KILLER_OP_12"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
+   <a href="https://t.me/ABOUT_MR_KILLER_OP"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a>
 
 
 ______
